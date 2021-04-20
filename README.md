@@ -6,5 +6,4 @@
 
 [![GitHub Actions Build History](https://buildstats.info/github/chart/dagilleland/FastestNuGet?branch=main&includeBuildsFromPullRequest=false)](https://github.com/dagilleland/FastestNuGet/actions)
 
-
-Project Description
+.NET Docs Rocks!
